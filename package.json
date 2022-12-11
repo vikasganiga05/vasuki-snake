@@ -1,0 +1,20 @@
+{
+  "name": "vasuki-snake",
+  "version": "1.0.0",
+  "author": "vikasganiga05",
+  "description": "A Battlesnake written in JavaScript.",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BattlesnakeOfficial/starter-snake-javascript.git"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
